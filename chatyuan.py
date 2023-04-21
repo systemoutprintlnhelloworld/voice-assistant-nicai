@@ -11,7 +11,7 @@ model = (
 
 import clueai
 
-api_key="D0KlOgr4gmtmmOI-x88PO1010110101011"
+api_key=""
 cl = clueai.Client(api_key)
 
 #精调代码 需要训练时解除注释
